@@ -1,0 +1,14 @@
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\bin\Debug\AssignmentFolder.exe.config
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\bin\Debug\AssignmentFolder.exe
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\bin\Debug\AssignmentFolder.pdb
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.csprojResolveAssemblyReference.cache
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\MainWindow.g.cs
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\App.g.cs
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder_MarkupCompile.cache
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder_MarkupCompile.lref
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\MainWindow.baml
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.g.resources
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.Properties.Resources.resources
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.csproj.GenerateResource.Cache
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.exe
+D:\MyCode\свалка\AssignmentFolder\AssignmentFolder\obj\Debug\AssignmentFolder.pdb
